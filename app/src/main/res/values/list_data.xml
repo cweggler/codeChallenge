@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>title</item>
+        <item>release_year</item>
+        <item>location</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cara\'s Movie List Locations</string>
+    <string name="movieName">Movie Name </string>
+    <string name="releaseDate">1999 </string>
+    <string name="location">Somewhere in California </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
+ 
